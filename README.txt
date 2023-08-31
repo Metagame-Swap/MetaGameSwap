@@ -17,6 +17,7 @@ Cross-platform.
 Dependencies -
 https://assetstore.unity.com/packages/tools/gui/2d-webview-for-webgl-web-browser-iframe-202522
 
+Video documentation - https://youtu.be/-3MhREGFFnM
 Steps to generate an API key -
 1. Navigate to https://app.metagameswap.io/signin
 2. Register your email address and verify your email
