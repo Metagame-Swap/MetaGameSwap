@@ -28,6 +28,6 @@ Steps to Integrate Unity plugin -
 1. Install dependencies.
     a. Webview WebGL - https://assetstore.unity.com/packages/tools/gui/2d-webview-for-webgl-web-browser-iframe-202522
     (Native versions of the webview package would work as well.)
-2. Navigate to the Releases folder and copy the Metagameswap folder into your project.
-3. Navigate to the Metagameswap folder, drag and drop the MetagameswapContainer prefab into the scene.
+2. Navigate to the Releases folder and install the latest package in your Unity project.
+3. Navigate to the Metagameswap folder in the Unity project, drag and drop the MetagameswapContainer prefab into the scene.
 4. Paste in your API key within the component.
