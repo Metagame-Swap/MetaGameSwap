@@ -17,6 +17,8 @@ Cross-platform.
 Dependencies -
 https://assetstore.unity.com/packages/tools/gui/2d-webview-for-webgl-web-browser-iframe-202522
 
+Developer integration & Tutorial -
+
 Video documentation - https://youtu.be/-3MhREGFFnM
 Steps to generate an API key -
 1. Navigate to https://app.metagameswap.io/signin
@@ -31,3 +33,13 @@ Steps to Integrate Unity plugin -
 2. Navigate to the Releases folder and install the latest package in your Unity project.
 3. Navigate to the Metagameswap folder in the Unity project, drag and drop the MetagameswapContainer prefab into the scene.
 4. Paste in your API key within the component.
+
+User demo - 
+Video - https://youtu.be/MZA-pLC6i4M
+
+How to navigate on Metagameswap -
+How to connect your Wallet - Use the connect wallet button to connect your external wallets.
+How to change the network - Use the network button to select the network. (Currently supports Polygon, Ethereum and Binance)
+How to select tokens to swap - Use the token drop down to select the tokens to include in the swap.
+How to adjust slippage - Use the cog wheel (Settings icon) to adjust the slippage.
+
